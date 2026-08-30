@@ -2,7 +2,7 @@
 
 A full stack prototype for managing patient appointments in calendar and list views.
 
-**[View live demo](https://scheduling-protoype.vercel.app/)**
+**[View live demo](https://vocare-scheduler.vercel.app/)**
 
 ![Appointment Scheduler week view](docs/appointment-scheduler.png)
 
