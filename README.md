@@ -2,6 +2,10 @@
 
 A full stack prototype for managing patient appointments in calendar and list views.
 
+**[View live demo](https://scheduling-protoype.vercel.app/)**
+
+![Appointment Scheduler week view](docs/appointment-scheduler.png)
+
 It's built with **Next.js, TypeScript, Supabase, TanStack Query, and Tailwind CSS**. You can create, edit, delete, view, and filter appointments, and the calendar state is kept in the URL.
 
 ## Features
