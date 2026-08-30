@@ -141,7 +141,7 @@ appointment-scheduler/
 │   └── types/                     # Application data types
 │
 ├── package.json
-├── next.config.ts
+├── next.config.mjs
 ├── tsconfig.json
 └── README.md
 ```
